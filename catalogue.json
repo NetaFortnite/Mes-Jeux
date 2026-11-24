@@ -2,8 +2,8 @@
   {
     "id": "jeu_2d",
     "titre": "Mon Premier Jeu",
-    "description": "Un jeu d'action 2D créé par mes soins.",
-    "url_zip": "https://github.com",
-    "nom_exe": "Jeu2D.exe"
+    "description": "Mon premier jeu disponible gratuitement.",
+    "url_zip": "https://github.com/NetaFortnite/Mes-Jeux/releases/download/v1.0/Jeu2D.zip",
+    "nom_exe": "Jeu 2D.exe"
   }
 ]
